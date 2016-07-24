@@ -1,16 +1,16 @@
-typography_spectrum: 0.4756239883136004
+typography_spectrum: 0.8510598647408187
 color:
-  brandStrength: 0.5285640105139464
-  lightness: 0.8728320351801813
-  saturation: 0.05382613791152835
-  rhythmicContrast: 0.5741442933212966
+  brandStrength: 0.6654401076957583
+  lightness: 0.04145031329244375
+  saturation: 0.3980426243506372
+  rhythmicContrast: 0.6865142856258899
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-layout_spectrum: 0.5956541323103011
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+layout_spectrum: 0.2631579951848835
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e99ca6a-1fb5-4d08-b1a5-857f6cdeaf63.jpg
 name: Evan Dorosheff
