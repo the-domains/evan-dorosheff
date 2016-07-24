@@ -6,9 +6,14 @@ color:
   saturation: 0.05382613791152835
   rhythmicContrast: 0.5741442933212966
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: Evan Dorosheff
+navigation:
+  - id: 'https://soundcloud.com/dorosheff'
+    url: 'https://soundcloud.com/dorosheff'
+    name: Music
+    type: external
