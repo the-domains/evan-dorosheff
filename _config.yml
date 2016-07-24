@@ -17,3 +17,7 @@ navigation:
     url: 'https://soundcloud.com/dorosheff'
     name: Music
     type: external
+  - id: 'https://www.facebook.com/evandorosheff/'
+    url: 'https://www.facebook.com/evandorosheff/'
+    name: Facebook
+    type: external
