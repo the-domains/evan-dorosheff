@@ -1,26 +1,24 @@
-typography_spectrum: 0.8510598647408187
+layout_spectrum: 0.08017738512717187
+typography_spectrum: 0.49820935912430286
 color:
-  brandStrength: 0.6654401076957583
-  lightness: 0.04145031329244375
-  saturation: 0.3980426243506372
-  rhythmicContrast: 0.6865142856258899
+  brandStrength: 0.5583783520851284
+  lightness: 0.45563072175718844
+  saturation: 0.11638082889840007
+  rhythmicContrast: 0.4348307275213301
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.2631579951848835
+    - '#FFFFFF'
+    - '#879DB2'
+    - '#415C6F'
+    - '#12242E'
+    - '#AAC4DB'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e99ca6a-1fb5-4d08-b1a5-857f6cdeaf63.jpg
 name: Evan Dorosheff
 navigation:
-  - id: 'https://soundcloud.com/dorosheff'
-    url: 'https://soundcloud.com/dorosheff'
+  - url: 'https://soundcloud.com/dorosheff'
     name: Music
     type: external
-  - id: 'https://www.facebook.com/evandorosheff/'
-    url: 'https://www.facebook.com/evandorosheff/'
+  - url: 'https://www.facebook.com/evandorosheff/'
     name: Facebook
     type: external
 title: DJ/Producer
